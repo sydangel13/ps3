@@ -13,7 +13,7 @@ div.addEventListener("click", changeColor);
 function changeColor(){
     //Write a condition determine what color it should be changed to
     if(div.getAttribute("id") === "color-block"){
-        div.setAttribute("color-block", document.getElementById("color-block").style.backgroundColor = "#348ceb")
+        div.setAttribute("id", "color-block2")
         document.getElementById("color-name").innerHTML = "#348ceb";
 
         //change the background color using JS

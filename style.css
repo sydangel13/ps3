@@ -10,6 +10,12 @@ body{
     background-color: #F08080;
 }
 
+#color-block2{
+    width: 200px;
+    height: 200px;
+    background-color: #348ceb;
+}
+
 #center-text{
     padding-top: 95px;
     padding-left: 15px;
